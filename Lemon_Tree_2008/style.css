@@ -1,0 +1,66 @@
+.background {
+        background: url('lemon_tree_background.jpg') no-repeat center center fixed;
+		opacity: 1;
+		-webkit-background-filter: blur(20px);
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+.thumbnail {
+  -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+  float: left;
+  width: 120px;
+}
+
+.movie-name {
+  font-family: Palatino;
+  color: #f5f3bf;
+  float: left;
+  font-size: 24px;
+  padding-left: 15px;
+  text-transform: capitalize;
+}
+
+.director {
+  color: #f3ebbd;
+  font-family: Helvitica;
+  font-size: 16px;
+  padding-top: 55px;
+  padding-left: 260px;
+  width: 120%;
+  }
+
+  .genre, .language {
+	color: #d89f21;
+    font-size: 13px;
+    font-family:Times;
+    padding-left: 320px;
+    font-weight: 300;
+    text-transform: capitalize;
+  }
+
+  .language {
+    padding-bottom: 10px;
+  }
+  
+  .quote {
+	  color: #f3ebbd;
+	  font-size: 14px;
+	  float: right;
+      padding-right: 135px;
+	  font-family:Times;
+  }
+  
+  .side_image {
+	  border-style: solid;
+      float: right;
+      width: 270px;
+	  height: 300px;
+	  padding-right: 100px;
+ .a2a_button_facebook, .a2a_button_twitter {
+  
+}
